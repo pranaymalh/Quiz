@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="quiz_time">FitQuiz</string>
+    <string name="admin">Admin</string>
+    <string name="user">User</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">LOGIN</string>
+    <string name="new_user_register">New User? Register</string>
+    <string name="name_player">Name: Player</string>
+    <string name="age_20">Age: 20</string>
+    <string name="gender_male">Gender: Male</string>
+    <string name="start_date_04_03_19">Start Date: 04/03/19</string>
+    <string name="id_1">Id: 1</string>
+    <string name="score">Score</string>
+    <string name="_0">0</string>
+</resources>

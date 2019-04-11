@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home_go" android:title="HOME">
+
+    </item>
+    <item android:id="@+id/about_go" android:title="ABOUT">
+
+    </item>
+    <item android:id="@+id/course_go" android:title="COURSES">
+
+    </item>
+    <item android:id="@+id/prod_go" android:title="PRODUCTS">
+
+    </item>
+    <item android:id="@+id/manp_go" android:title="MANPOWER">
+
+    </item>
+    <item android:id="@+id/gall_go" android:title="GALLERY">
+
+    </item>
+    <item android:id="@+id/contact_go" android:title="CONTACT US">
+
+    </item>
+</menu>
